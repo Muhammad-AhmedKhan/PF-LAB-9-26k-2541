@@ -7,7 +7,8 @@
 " />
 
 ## Task02:
-src=<img width="592" height="260" alt="image" src=<img width="520" height="265" alt="image" src="https://github.com/user-attachments/assets/0ccf1f92-07ff-44f1-b24a-59c0f7802e26" />
+src=<img width="592" height="260" alt="image" src=<img width="520" height="265" alt="image" src=<img width="592" height="260" alt="Screenshot 2026-10-25 213450" src="https://github.com/user-attachments/assets/bdde85b3-e05f-47ba-964a-80e9fcd97730" />
+ />
  />
 " />
 " />
