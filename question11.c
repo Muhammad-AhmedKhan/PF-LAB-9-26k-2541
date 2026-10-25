@@ -71,33 +71,35 @@ void printGeneric(void *data, char type, int n) {
 
 int main(int argc, char *argv[]) {
 	int n = 0;
-	int arr[] = {3, -2, 8, -5, 6};
+	int arr[50] = {3, -2, 8, -5, 6};
 	float farr[] = {1.50, 2.25};
 
 	while (1) {
 		printf("Enter n (1-50): ");
-		scanf("%d", &n);
+		if (scanf("%d", &n) != 1) {
+			while (getchar() != '\n');
+			continue;
+		}
 		if (n >= 1 && n <= 50) {
 			break;
 		}
+		printf("Invalid size\n");
 	}
 
-	int size = n < 5 ? n : 5;
-
 	printf("Original: ");
-	printGeneric(arr, 'i', size);
+	printGeneric(arr, 'i', n);
 
-	applyToArray(arr, size, negate);
+	applyToArray(arr, n, negate);
 	printf("After negate: ");
-	printGeneric(arr, 'i', size);
+	printGeneric(arr, 'i', n);
 
-	printf("Positive values after negate: %d\n", countIf(arr, size, isPositive));
-	printf("Even values after negate: %d\n", countIf(arr, size, isEven));
+	printf("Positive values after negate: %d\n", countIf(arr, n, isPositive));
+	printf("Even values after negate: %d\n", countIf(arr, n, isEven));
 
 	printf("Float print (type f): ");
 	printGeneric(farr, 'f', 2);
 
-	printGeneric(arr, 'x', size);
+	printGeneric(arr, 'x', n);
 
 	return 0;
 }
