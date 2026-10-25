@@ -14,8 +14,8 @@ src=<img width="592" height="260" alt="image" src=<img width="520" height="265" 
 " />
 
 ## Task03:
-<img width="1059" height="317" alt="image" src="<img width="688" height="182" alt="image" src="https://github.com/user-attachments/assets/3da24979-1b35-4324-9c6a-93a1dd5ba2d0" />
-" />
+<img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/be64ee93-8bdf-4f91-a1ff-145d321f2a5a" />
+
 
 ## Task04:
 <img width="1059" height="317" alt="image" src="<img width="441" height="461" alt="image" src="https://github.com/user-attachments/assets/aab8d552-5408-45dc-a694-3fa6282d3178" />
