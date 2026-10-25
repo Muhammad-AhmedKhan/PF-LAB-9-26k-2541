@@ -7,7 +7,8 @@
 " />
 
 ## Task02:
-<img width="1059" height="317" alt="image" src="<img width="831" height="197" alt="image" src="https://github.com/user-attachments/assets/10d34882-755b-4bb1-9248-931f955de498" />
+<img width="1059" height="317" alt="image" src="<img width="831" height="197" alt="image" src=<img width="592" height="260" alt="image" src="https://github.com/user-attachments/assets/46086e91-6e53-41fe-a93f-4d2def3a8f77" />
+" />
 " />
 
 ## Task03:
