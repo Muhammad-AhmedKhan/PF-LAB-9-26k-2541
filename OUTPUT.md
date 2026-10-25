@@ -33,4 +33,8 @@
 ## Task10:
 <img width="308" height="234" alt="image" src="https://github.com/user-attachments/assets/a7af3818-f8e7-40f3-bc84-ca23879c51f3" />
 
+## Task11:
+<img width="908" height="326" alt="image" src="https://github.com/user-attachments/assets/11f24886-4914-4ace-8381-dc92d0cea7a5" />
+
+
 
