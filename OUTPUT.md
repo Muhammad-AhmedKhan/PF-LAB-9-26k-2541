@@ -19,3 +19,6 @@
 ## Task05:
 <img width="1129" height="663" alt="image" src="https://github.com/user-attachments/assets/7b6c0629-40a9-44a0-a08f-705b27995d01" />
 
+## Task06:
+<img width="912" height="685" alt="image" src="https://github.com/user-attachments/assets/39960987-fd98-402f-8daa-51c0812a5e13" />
+
